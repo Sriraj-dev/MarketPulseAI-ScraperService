@@ -1,0 +1,1 @@
+from .economictimes_data import store_economictimes_feed

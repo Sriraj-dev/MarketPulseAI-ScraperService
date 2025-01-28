@@ -5,7 +5,7 @@ codeuri = "/Users/srirajdev/development/Scraper-Service-MarketPulseAI/scraper_se
 runtime = "python3.9"
 architecture = "x86_64"
 handler = "app.lambda_handler"
-manifest_hash = "16eb5cad100f790cd19d02e91371c1d6"
+manifest_hash = "34e35b4ddaa9642ca752865069f6edd2"
 packagetype = "Zip"
 functions = ["ScraperServiceFunction"]
 

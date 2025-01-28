@@ -1,6 +1,8 @@
 # Base URLs
 MONEYCONTROL_BASE_URL = "https://www.moneycontrol.com/news/business/stocks/"
 BUSINESSTODAY_BASE_URL = "https://www.businesstoday.in/markets/stocks"
+ECONOMIC_TIMES_BASE_URL = "https://economictimes.indiatimes.com/markets/stocks/news"
+NEWS18_BASE_URL = "https://www.news18.com/business/markets/"
 
 # AWS Configurations
 S3_BUCKET_NAME = "market-pulse-ai"
